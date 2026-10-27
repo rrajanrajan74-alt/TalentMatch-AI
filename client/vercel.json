@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/:path*",
+            "destination": "https://talentmatch-backend-z6kk.onrender.com/api/:path*"
+        }
+    ]
+}
